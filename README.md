@@ -27,7 +27,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifullstack-tv03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3>Connect with us:</h3>
 
 [<img alt="iFullStack.tv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img alt="iFullStack.tv | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tiktok.svg" />][tiktok]
