@@ -2,6 +2,7 @@
 <h3>We want to help in your learning</h3>
 <p>Follow us to stay on top of the best web and mobile technologies. Learn many projects with different languages and tools such as:</p>
 
+<div align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,7 +27,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifullstack-tv03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center">
   <h3>Connect with us:</h3>
 
 [<img alt="iFullStack.tv | YouTube" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
