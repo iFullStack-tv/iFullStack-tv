@@ -29,10 +29,10 @@
 <div align="center">
   <h3>Connect with us:</h3>
 
-[<img alt="iFullStack.tv | YouTube" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
-[<img alt="iFullStack.tv | Instagram" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/instagram.png" />][instagram]
-[<img alt="iFullStack.tv | Course" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/course.png" />][dev course]
-[<img alt="iFullStack.tv | TikTok" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/tiktok.png" />][tiktok]
+[<img alt="iFullStack.tv | YouTube" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
+[<img alt="iFullStack.tv | Instagram" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/instagram.png" />][instagram]
+[<img alt="iFullStack.tv | Course" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/course.png" />][dev course]
+[<img alt="iFullStack.tv | TikTok" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/tiktok.png" />][tiktok]
 
 [youtube]: https://www.youtube.com/channel/UCDUs_tL_rNpmwR3Ep7ZtchA?sub_confirmation=1
 [instagram]: https://www.instagram.com/ifullstack.tv/
