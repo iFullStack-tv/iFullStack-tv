@@ -19,6 +19,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
+
 ![iFullStack-tv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifullstack-tv&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifullstack-tv03&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -26,10 +29,10 @@
 <div align="center">
 ### Connect with me:
 
-[<img align="left" alt="iFullStack.tv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iFullStack.tv | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tiktok.svg" />][tiktok]
-[<img align="left" alt="iFullStack.tv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iFullStack.tv | Course" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gitbook.svg" />][dev course]
+[<img alt="iFullStack.tv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img alt="iFullStack.tv | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tiktok.svg" />][tiktok]
+[<img alt="iFullStack.tv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="iFullStack.tv | Course" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gitbook.svg" />][dev course]
 
 [dev course]: http://bit.ly/CursoFullStackTurbo
 [tiktok]: https://vm.tiktok.com/ZMeCfQN72/
