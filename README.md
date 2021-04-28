@@ -29,10 +29,10 @@
 <div align="center">
   <h3>Connect with us:</h3>
 
-[<img alt="iFullStack.tv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img alt="iFullStack.tv | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/tiktok.svg" />][tiktok]
-[<img alt="iFullStack.tv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="iFullStack.tv | Course" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gitbook.svg" />][dev course]
+[<img alt="iFullStack.tv | YouTube" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
+[<img alt="iFullStack.tv | TikTok" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/tiktok.png" />][tiktok]
+[<img alt="iFullStack.tv | Instagram" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/instagram.png" />][instagram]
+[<img alt="iFullStack.tv | Course" width="28px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/course.png" />][dev course]
 
 [dev course]: http://bit.ly/CursoFullStackTurbo
 [tiktok]: https://vm.tiktok.com/ZMeCfQN72/
