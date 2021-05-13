@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/CarlosWillian/CarlosWillian/blob/main/wave.gif" width="30px">, we are iFullStack.tv</h1>
+<h1 align="center">Hi <img src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/wave.gif" width="30px">, we are iFullStack.tv</h1>
 <h3>We want to help in your learning</h3>
 <p>Follow us to stay on top of the best web and mobile technologies. Learn many projects with different languages and tools such as:</p>
 
